@@ -6,7 +6,6 @@ nums = {
     "e" : [("8", "eight", 5)],
     "n" : [("9", "nine", 4)]
 }
-
 def calc(line: str, i: int, n: int) -> str:
     char = line[i]
     if char.isnumeric(): return char

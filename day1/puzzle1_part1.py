@@ -17,3 +17,4 @@ def solve(filename: str) -> int:
                      
     return total
 
+
