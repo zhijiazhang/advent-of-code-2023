@@ -1,5 +1,4 @@
 def solve(filename: str) -> int:
-
     card_count = {}
 
     with open(filename) as reader:

@@ -1,5 +1,4 @@
 def solve(filename: str) -> int:
-
     total = 0
     with open(filename) as reader:
 
